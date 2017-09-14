@@ -7,12 +7,16 @@ Toontown Sludge - The Toontown Content Pack
 ## Staff
 
 ### Web Developer
-*Dr. Rain O'Sniffy
+* Dr. Rain O'Sniffy
 
 ### Founder
-*Elite
+* Elite
 
+## Website:
+https://www.toontownsludge.me
 
+## Discord:
+https://discord.gg/53twNrs
 
 ***
 Copyright 2017 Toontown Sludge; Alrights Reserved.
