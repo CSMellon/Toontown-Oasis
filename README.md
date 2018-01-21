@@ -1,8 +1,8 @@
 # Toontown Sludge
-Toontown Sludge - The Toontown Content Pack
+Toontown Oasis - The Toontown Content Pack
 ***
 
-### Welcome to Toontown Sludge!
+### Welcome to Toontown Oasis!
 
 ## Staff
 
@@ -13,10 +13,10 @@ Toontown Sludge - The Toontown Content Pack
 * Elite
 
 ## Website:
-https://www.toontownsludge.me
+https://www.toontownoasis.ga
 
 ## Discord:
 https://discord.gg/53twNrs
 
 ***
-Copyright 2017 Toontown Sludge; Alrights Reserved.
+Copyright 2018 Toontown Oasis; Alrights Reserved.
